@@ -85,3 +85,4 @@ Sau khi Terminal báo `Started TodoListApplication in ... seconds`, hãy mở tr
 👉 **[http://localhost:8081](http://localhost:8081)**
 
 *(Lưu ý: Ứng dụng đã được cấu hình chạy ở cổng 8081 trong quá trình phát triển để tránh xung đột cổng).*
+Hoặc truy cập đường dẫn đã deploy: https://todo-list-1-zjtx.onrender.com/todos
